@@ -24,18 +24,12 @@ Folder] [TODO:link to folder]; they are also an archive of our live
 google-docing. Please see <https://openscapes.org/series> to view blank versions
 of the agendas.
 
-<!---TODO create schedule table programmatically
-```{r, echo=FALSE}
-knitr::kable(db$schedule)
-```
---->
-
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |--------------------|------------------------|---------------------|
-| 1. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | Seaside Chat (trailhead) |
-| 2. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Seaside Chat: shared organizing with GitHub |
-| 3. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/core-lessons/data-strategies) | Seaside Chat (code of conduct) |
-| 4. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/core-lessons/communities), [coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies) | Seaside Chat (pathway) | 
+| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | Seaside Chat (trailhead) |
+| 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Seaside Chat (shared organizing with GitHub) |
+| 3\. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/core-lessons/data-strategies) | Seaside Chat (code of conduct) |
+| 4\. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/core-lessons/communities), [coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies) | Seaside Chat (pathway) | 
 
 <!---TODO: link to issues labeled 'digest'. 
 Note result will be empty until after first call digest is posted.
@@ -62,9 +56,9 @@ edits directly (we'll learn how in our GitHub Clinic!)
 
 ## Our Team
 
-Julie Lowndes (@jules32), Openscapes
-Stefanie Butland (@stefaniebutland), Openscapes
-Andy Teucher (@teucher), Openscapes
+Julie Lowndes (@jules32), Openscapes\
+Stefanie Butland (@stefaniebutland), Openscapes\
+Andy Teucher (@teucher), Openscapes\
 Ronny A. Hernández Mora (@ronnyhdez), Openscapes
 
 ## More about Openscapes and the Champions program:
