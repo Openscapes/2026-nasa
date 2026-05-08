@@ -1,23 +1,12 @@
----
-params:
-  cohort_name: "2026-nasa"
-  cohort_registry: "https://docs.google.com/spreadsheets/d/1Ys9KiTXXmZ_laBoCV2QWEm7AcnGSVQaXvm2xpi4XTSc/"
-output: github_document
----
+<a align="left" href="https://github.com/Openscapes/2026-nasa"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
-```{r setup, message=FALSE, warning=FALSE, error=FALSE, echo=FALSE}
-library(knitr)
-db <- kyber:::readme_setup(params)
-```
+# 2026 NASA Openscapes Champions
 
-<a align="left" href="`r db$cr$github_repo`"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
-
-# `r db$cr$cohort_name_long`
-
-Welcome to the `r db$cr$cohort_name_long` Cohort! This is a Cohort for [TODO:
-who is this cohort for?]. To learn more about what to expect (the purpose,
-outcomes, and process of our Cohort) and to browse the open lesson materials,
-please see the [Champions Program Lesson
+Welcome to the 2026 NASA Openscapes Cohort! This is a Cohort for or researchers
+to learn open science approaches for your daily workflows and strengthen
+collaboration and reproducibility as suborbital data producers. To learn more
+about what to expect (the purpose, outcomes, and process of our Cohort) and to
+browse the open lesson materials, please see the [Champions Program Lesson
 Series](https://openscapes.github.io/series).
 
 <img src="horst-champions-trailhead.png" align="right" width="450">
@@ -26,8 +15,8 @@ Series](https://openscapes.github.io/series).
 
 We will meet as a Cohort via Zoom four times over one month for 1.5 hours each:
 
--   **Dates:** `r kyber:::pretty_date_sequence(db$date_range)`
--   **Times:** `r kyber:::fmt_duration(db$cr$time_start, 90)`
+-   **Dates:** June 3, 10, 17, 24
+-   **Times:** 10:00 - 11:30 PT
 -   **Location:** remotely, via Zoom
 
 Agendas are accessible to Cohort participants in our [Cohort Google Drive
@@ -77,7 +66,7 @@ edits directly (we'll learn how in our GitHub Clinic!)
 Julie Lowndes (@jules32), Openscapes
 Stefanie Butland (@stefaniebutland), Openscapes
 Andy Teucher (@teucher), Openscapes
-Ronny A. Hernández Mora
+Ronny A. Hernández Mora (@ronnyhdez), Openscapes
 
 ## More about Openscapes and the Champions program:
 
