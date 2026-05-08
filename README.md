@@ -21,7 +21,7 @@ We will meet as a Cohort via Zoom four times over one month for 1.5 hours each:
 
 Agendas are accessible to Cohort participants in our [Cohort Google Drive
 Folder] [TODO:link to folder]; they are also an archive of our live
-google-docing. Please see <https://openscapes.org/series> to view blank versions
+google-docing. Please see <https://openscapes.github.io/series/> to view blank versions
 of the agendas.
 
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
