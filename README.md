@@ -20,7 +20,7 @@ We will meet as a Cohort via Zoom four times over one month for 1.5 hours each:
 -   **Location:** remotely, via Zoom
 
 Agendas are accessible to Cohort participants in our [Cohort Google Drive
-Folder] [TODO:link to folder]; they are also an archive of our live
+Folder] [https://drive.google.com/drive/u/0/folders/1cgInoxHQXjysuwOjKL-OifdujIpiYMnI]; they are also an archive of our live
 google-docing. Please see <https://openscapes.github.io/series/> to view blank versions
 of the agendas.
 
