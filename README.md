@@ -37,7 +37,7 @@ Note result will be empty until after first call digest is posted.
 [**Cohort Call Digests**](`r paste0(params$github_repo, "issues")`)
 --->
 
-## Coworking times (optional)
+<!---## Coworking times (optional)
 
 Coworking sessions are where get our own work done at the same time together.
 Sometimes, this means quiet work with check-ins to break up focused work and get
@@ -48,6 +48,7 @@ related themes can meet and learn from each other.
 -   **Dates:**
 -   **Times:**
 -   **Location:** remotely, via Zoom
+--->
 
 ## Participating teams and individuals
 
